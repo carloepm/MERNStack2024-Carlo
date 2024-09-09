@@ -6,5 +6,5 @@ Primera modificacion en el README del git.
 
 realizo nueva modificaicon
 
-.[!NOTE]
+.[!NOTE].
 NUEVA MODIFICACION
