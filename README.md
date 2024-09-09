@@ -1,4 +1,3 @@
 # MERNStack2024-Carlo
 
-.[!NOTE].
-Bienvenido al repo del Curso MERN STACK PoloTecnologico 2024
+Repositorio creado para realizacion del curso MERNSTACK PoloTecnologico 2024 
